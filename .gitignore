@@ -1,2 +1,3 @@
-git@github.com:ratchanonsuttawas/ratchanonassistant
+
+> ssh-keygen -t rsa -C "ratchanonassistent@gmail.com"
 
